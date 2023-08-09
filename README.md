@@ -17,7 +17,8 @@ def your_plotting_function():
 - The Streamlit developer can add their own additional context with a simple decorator argument 
 
 ## Demo
-[streamlit-app-2023-08-09-22-08-60.webm](https://github.com/david-sykes/streamlit-chat-to-chart/assets/18305148/5bac1837-dce7-473f-b3b6-4ec49d0a04e5)
+https://github.com/david-sykes/streamlit-chat-to-chart/assets/18305148/6c277055-4276-4986-9ecc-9370933ba9c8
+
 
 ## Example app
 A simple example Streamlit app is provided to get started. 
