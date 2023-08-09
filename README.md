@@ -9,8 +9,9 @@ A tool to allow you to easily turn a Streamlit chart into an AI data analyst age
 - Downloadable csv output from the Chart AI agent for follow up analysis 
 - Built on top of Langchain AgentExecutor
 
+## Demo
+[streamlit-app-2023-08-09-22-08-60.webm](https://github.com/david-sykes/streamlit-chat-to-chart/assets/18305148/5bac1837-dce7-473f-b3b6-4ec49d0a04e5)
 
-https://github.com/david-sykes/streamlit-chat-to-chart/assets/18305148/4ffafb5b-b17f-4307-b2e4-b976bc19b182
 
 ## Example app
 A simple example Streamlit app is provided to get started. 
